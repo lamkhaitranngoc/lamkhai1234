@@ -1,4 +1,3 @@
 # lamkhai1234
 logo
-<img width="627" height="499" alt="Ảnh chụp màn hình 2025-07-13 201631" src="https://github.com/user-attachments/assets/d151aa5d-1bbd-4696-9a39-0f7c0181f573" />
-
+<img width="622" height="492" alt="image" src="https://github.com/user-attachments/assets/56f1a5bd-eebc-4d8e-b4a4-5a7760a656c4" />
